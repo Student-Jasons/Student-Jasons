@@ -1,4 +1,4 @@
-# Hi! I'm Junseop Whang, a student at Jeongpyeong Middle School.
+# Hi! I'm Junseop Whang, Call Jason!
 I've been programming for about 5 years!
 Team project suggestions are always welcome :)
 
